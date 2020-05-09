@@ -6,8 +6,16 @@ I am keep learning
 }
 @e
 
+// JAVA CODE
+
 public void justNameAndCity(String name, String city){
    System.out.print("I am " + name " and I come from " + city);
+}
+
+public class Mouse {
+   private int numTeeth;
+   private int numWhiskers;
+   private int weight;
 }
 
 
