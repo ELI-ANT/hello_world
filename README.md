@@ -18,18 +18,26 @@ public class Mouse {
 public class Animal {
    private String species;
    private boolean canHop;
+   private boolean dangered;
 }
 // Costructor for the class Animal
 
-public Animal(String speciesName, boolean hopper) 
+public Animal(String speciesName, boolean hopper, boolen dangered) 
 {
    species = speciesName;
    canHop = hopper;
+   canDisappear = dangered;
 }
 
 public boolean canHop()
 {
    return canHop;
 }  
+
+public boolean canDisappear() {
+	return canDisappear;
+}
+
+
 
 
