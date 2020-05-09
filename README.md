@@ -15,6 +15,12 @@ public class Mouse {
    private int weight;
 }
 
+class Mouse(int denti, int baffi, int peso) {
+	numTeeth = denti;
+	numWhiskers = baffi;
+	weight = peso;
+}
+
 public class Animal {
    private String species;
    private boolean canHop;
