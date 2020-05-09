@@ -38,6 +38,10 @@ public boolean canDisappear() {
 	return canDisappear;
 }
 
+public String tellMe(String name) {
+	return "My name is " + name;
+}
+
 
 
 
