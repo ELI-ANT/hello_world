@@ -48,6 +48,13 @@ public String tellMe(String name) {
 	return "My name is " + name;
 }
 
+## python chunck
 
-
+def IsThereAnySoilProfile(String samp):
+	if samp == "IT"
+		return TRUE
+		print("Sample found")
+	else: 
+		return FALSE
+		print("Nothing found")
 
