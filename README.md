@@ -1,6 +1,6 @@
-# hello_world
-Just my first/Second attemps to update repository
-I am trying to learn about GITHUb and the online step by step istructions video is very useful.
+# hello_world Repo / C2016
+Playing-around repo
+Play-ground learning about GITHUb
 @e
 
 // SOME MORE JAVA CODE
