@@ -1,9 +1,8 @@
-# hello_world Repo / C2016
+#hello_world Repo / C2016
 Playing-around repo
-Play-ground learning about GITHUb
+Playground learning field
 @e
-
-// SOME MORE JAVA CODE
+// SOME JAVA CODE just for fun
 
 public void justNameAndCity(String name, String city){
    System.out.print("I am " + name " and I come from " + city);
