@@ -1,3 +1,3 @@
 Name,FamilyName,Depart,ReserchTopic,Email
-Augusto,Zanella,Dep. TESAF Unipd,ForestSoil,az@unipd.it
+Allegro,Zappa,Dep. SOTTOSOPRA UniDR,ForestSoil,az@unidr.iu
 Marcel,M. Anchro,Dep. FERT UniMar,SoilChemistry,mma@unimars.fr
